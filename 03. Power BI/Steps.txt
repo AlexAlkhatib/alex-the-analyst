@@ -1,0 +1,27 @@
+### Final Project - Data Professional Survey ###
+01. Load dataset in Power BI (Transform Data Before Load)
+1.1 Which Title Best Fits -> Delete Columns (Browser, OS, City, Country, Referrer)
+1.2 Split Column -> By Delimiter -> -- Custom -- -> ( -> Left most delimiter -> OK
+1.3 Remove the old column & Rename new column
+1.4 Do the same thing with the column (Favorite Programming Language) -> Split Column -> Delimiter -> Colon -> Left most delimiter -> OK -> Delete Previous & Rename
+### Break bounds into two columns and create a thrid column for the average salary ###
+1.5 Current Yearly Salary -> Duplicate Column -> Split column (Copy) -> By Digit to Non-Digit -> Column with (k-0) -> Replace values
+-> Replace "k" with "" -> OK
+-> Replace "-" with ""
+-> Replace "+" with "255"
+1.6 Transform two column types to Number (not text) -> Whole Number
+1.7 Add column -> Custom column -> Average Salary -> Formula = ([#"Q3 - Current Yearly Salary (in USD) - Copy.1"] + [#"Q3 - Current Yearly Salary (in USD) - Copy.2"]) / 2 -> OK
+1.8 Remove the lower and upper columns -> Move the column (put it after Q3)
+1.9 Q11 -> Split Column -> Delimiter -> Custom -> Left most -> delimiter -> ( -> OK -> Delete -> Rename
+1.10 Q4 -> SAME -> OK
+02. Close & Aplly
+03. Report view -> Text box -> Data Professional Survey Breakdown -> 36 -> Bold -> Center -> Effects -> Background -> Blue
+04. Card -> Unique ID -> Count -> Rename for this visual -> Rename to "Count of Survey Takers"
+05. Card -> ... -> Average Age
+06. Stacked Bar Chart -> (Q1, Average Salary) -> You may need to convert type to decimal number first
+07. Stacked Column Chart -> ... -> "Favorite Programming Language"
+08. Treemap -> (Category: Q11, Values: Q11) -> ...
+09. Gauge -> (Value, Minimum, Maximum)
+10. Gauge -> ...
+11. Donut Chart -> Men vs Femel
+12. ### Final Touch ### : View -> Electric
