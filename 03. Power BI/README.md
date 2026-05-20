@@ -30,12 +30,12 @@ Les projets couvrent les fonctionnalités clés de Power BI :
 
 ## 📊 Compétences Démontrées
 
-✔️ Nettoyage et transformation des données (ETL)
-✔️ Création de modèles relationnels efficaces
-✔️ Conception de dashboards interactifs et dynamiques
-✔️ Utilisation avancée de DAX pour analyses métier
-✔️ Storytelling avec les données
-✔️ Optimisation des performances des rapports
+- ✔️ Nettoyage et transformation des données (ETL)
+- ✔️ Création de modèles relationnels efficaces
+- ✔️ Conception de dashboards interactifs et dynamiques
+- ✔️ Utilisation avancée de DAX pour analyses métier
+- ✔️ Storytelling avec les données
+- ✔️ Optimisation des performances des rapports
 
 
 ## 📈 Types de Projets Inclus
@@ -53,11 +53,11 @@ Selon le contenu du repo :
 
 Ce repository a été conçu pour :
 
-✔️ Présenter mes compétences en **Business Intelligence**
-✔️ Illustrer ma maîtrise de **Power BI et DAX**
-✔️ Construire des dashboards professionnels orientés métier
-✔️ Démontrer ma capacité à transformer la donnée en décision
-✔️ Servir de portfolio pour des projets Data / BI
+- ✔️ Présenter mes compétences en **Business Intelligence**
+- ✔️ Illustrer ma maîtrise de **Power BI et DAX**
+- ✔️ Construire des dashboards professionnels orientés métier
+- ✔️ Démontrer ma capacité à transformer la donnée en décision
+- ✔️ Servir de portfolio pour des projets Data / BI
 
 
 ## ▶️ Comment Utiliser les Projets
