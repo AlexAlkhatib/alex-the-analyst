@@ -18,9 +18,9 @@ Ils sont directement inspirés et reproduits à partir du contenu pédagogique d
 
 ## 🎯 Objectif
 
-✔️ Mettre en pratique les concepts de Data Analysis
-✔️ Maîtriser différents outils utilisés en entreprise
-✔️ Consolider mes compétences à travers des cas concrets
+- ✔️ Mettre en pratique les concepts de Data Analysis
+- ✔️ Maîtriser différents outils utilisés en entreprise
+- ✔️ Consolider mes compétences à travers des cas concrets
 
 
 ## 👤 Crédit
