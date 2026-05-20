@@ -68,11 +68,11 @@ Selon le contenu du repo :
 
 Ce repository a été conçu pour :
 
-✔️ Centraliser mes projets Python
-✔️ Démontrer ma maîtrise du langage et de ses bibliothèques clés
-✔️ Explorer le web scraping et l’analyse de données
-✔️ Documenter mon apprentissage et mes expérimentations
-✔️ Servir de base pour des projets plus avancés (Data Science, ML)
+- ✔️ Centraliser mes projets Python
+- ✔️ Démontrer ma maîtrise du langage et de ses bibliothèques clés
+- ✔️ Explorer le web scraping et l’analyse de données
+- ✔️ Documenter mon apprentissage et mes expérimentations
+- ✔️ Servir de base pour des projets plus avancés (Data Science, ML)
 
 
 ## 📌 Exemple de Workflow
